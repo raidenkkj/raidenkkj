@@ -9,6 +9,7 @@
 
 <h2 align="center"> Active repos ⚙️ </h2>
 <p align="center"><a href="https://github.com/raidenkkj/Raiden-Tweaks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raidenkkj&repo=Raiden-Tweaks&show_owner=false&theme=dark"></a></p>
+<p align="center"><a href="https://github.com/raidenkkj/local_manifest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raidenkkj&repo=local_manifest&show_owner=false&theme=dark"></a></p>
 
 <br>
 <h2 align="center"> My social media </h2>
