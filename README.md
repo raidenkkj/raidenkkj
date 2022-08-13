@@ -14,8 +14,8 @@
 
 <br>
 <h2 align="center"> MY SOCIAL MEDIA </h2>
-<a href="https://t.me/raidenkk"><img align="left" width="40px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"></a>
-<a href="mailto: contact.raidenishi69@gmail.com"><img align="left" width="40px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>
+<a href="https://t.me/raidenkk"><img align="center" width="40px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"></a>
+<a href="mailto: contact.raidenishi69@gmail.com"><img align="center" width="40px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>
 </br>
 
 # Credits: <p> Thanks for <a href="https://github.com/kutemeikito"> Edwin </a> & <a href="https://github.com/iamlazy123"> Alex </a> for it's about template. </p>
