@@ -25,5 +25,5 @@
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
 
 ## ⭐ _GitHub info_
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=raidenkkj&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=raidenkkj&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 <img src="https://img.shields.io/static/v1?label=Overview&message=Raiden&color=f8efd4&style=for-the-badge&logo=GitHub">
