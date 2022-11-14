@@ -15,15 +15,3 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/+TT4lRxVKVZe_AC0W" /></a>
 
 ----
-
-## 🚀 _Skills_
-<p align="left">
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
-
-## ⭐ _GitHub info_
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=raidenkkj&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
-<img src="https://img.shields.io/static/v1?label=Overview&message=Raiden&color=f8efd4&style=for-the-badge&logo=GitHub">
